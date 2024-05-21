@@ -97,3 +97,8 @@ def load_records(start_date, update=False):
         df.to_pickle(path)
 
         return df
+
+# ----------------------------------------------------------------------
+
+if __name__ == '__main__':
+    load_records('1900-01-01', update=True)

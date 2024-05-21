@@ -8,4 +8,4 @@ Currently, only the RRP endpoint is available.
 
 pypi package:
 
-
+https://pypi.org/project/newyorkfed-pandas/
